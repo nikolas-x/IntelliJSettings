@@ -3,4 +3,32 @@
     <option name="pluginVersion" value="2017.5.1" />
     <option name="popupShown" value="true" />
   </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Perl v5.26.2" />
+      <type value="Perl5 Interpreter" />
+      <version value="v5.26.2 for MSWin32-x64-multi-thread" />
+      <homePath value="K:/Team Folders/SpecOps/Strawberry/perl/bin" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://K:/Team Folders/SpecOps/Strawberry/perl/site/lib/MSWin32-x64-multi-thread" type="simple" />
+            <root url="file://K:/Team Folders/SpecOps/Strawberry/perl/site/lib" type="simple" />
+            <root url="file://K:/Team Folders/SpecOps/Strawberry/perl/vendor/lib" type="simple" />
+            <root url="file://K:/Team Folders/SpecOps/Strawberry/perl/lib" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </perl>
+  </component>
 </application>
